@@ -16,7 +16,7 @@ public class StudentTester {
         Student [] stuList = new Student[5];
         
         stuList[0]= new Student("Stu1",1233);
-        stuList[1]= new Student("Stu2",1234);
+        stuList[1]= new Student("Stu2",1232);
         stuList[2]= new Student("Stu3",123);
         stuList[3]= new Student("Stu4",124);
         stuList[4]= new Student("Stu5",125);
